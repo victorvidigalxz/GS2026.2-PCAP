@@ -8,14 +8,13 @@ ACENTOS = {"á": "a", "à": "a", "ã": "a", "â": "a", "é": "e", "ê": "e",
 CAMPOS = ["id", "categoria", "titulo", "palavras_chave", "resposta",
           "documentos", "onde", "fonte", "verificado_em"]
 
-# Pesos e limites da pontuação (explicados no README)
 PONTOS_PALAVRA_CHAVE = 3
 PONTOS_TITULO = 1
 MINIMO_LETRAS_TITULO = 4
 LIMITE_ALTA = 6
 LIMITE_MEDIA = 3
 
-# Palavras muito comuns que não devem pontuar no título
+
 IGNORADAS = {"como", "para", "quero", "preciso", "qual", "quais", "onde",
              "sobre", "fazer", "posso", "quando", "tenho", "minha", "meu"}
 

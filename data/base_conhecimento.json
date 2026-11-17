@@ -1,0 +1,297 @@
+[
+  {
+    "id": 1,
+    "categoria": "Documentos",
+    "titulo": "Tirar o CPF",
+    "palavras_chave": [
+      "cpf",
+      "tirar cpf",
+      "tirar o cpf",
+      "fazer cpf",
+      "primeiro cpf",
+      "inscricao no cpf"
+    ],
+    "resposta": "A inscrição no CPF é gratuita pela internet, no site da Receita Federal, e também em unidades da Receita e Pontos de Atendimento Virtual. Nas unidades conveniadas (Correios, Banco do Brasil, Caixa e cartórios de registro civil) é cobrada uma taxa de R$ 7,00. Desconfie de quem cobra para emitir o CPF.",
+    "documentos": [
+      "Documento de identificação (por exemplo, certidão de nascimento ou RG)"
+    ],
+    "onde": "Site da Receita Federal (gratuito) ou unidades conveniadas (taxa de R$ 7,00)",
+    "fonte": "https://www.gov.br/pt-br/servicos/inscrever-no-cpf",
+    "verificado_em": "2026-11-17"
+  },
+  {
+    "id": 2,
+    "categoria": "Documentos",
+    "titulo": "Tirar a Carteira de Identidade Nacional (CIN / RG)",
+    "palavras_chave": [
+      "rg",
+      "identidade",
+      "carteira de identidade",
+      "cin",
+      "segunda via do rg"
+    ],
+    "resposta": "A primeira via da Carteira de Identidade Nacional (CIN) é gratuita. O agendamento pode ser feito pela internet ou no órgão de identificação do seu estado, mas a foto e a biometria são feitas presencialmente. A CIN usa o CPF como número de registro e tem versão digital no aplicativo gov.br.",
+    "documentos": [
+      "Certidão de nascimento ou de casamento (original ou cópia autenticada)",
+      "CPF regularizado",
+      "Outros documentos podem ser pedidos pelo seu estado"
+    ],
+    "onde": "Órgão de identificação do seu estado (ex.: Poupatempo, em SP), com agendamento",
+    "fonte": "https://www.gov.br/identidade",
+    "verificado_em": "2026-11-17"
+  },
+  {
+    "id": 3,
+    "categoria": "Documentos",
+    "titulo": "Criar a conta gov.br",
+    "palavras_chave": [
+      "gov br",
+      "conta gov",
+      "login gov",
+      "senha do gov",
+      "nivel prata"
+    ],
+    "resposta": "A conta gov.br dá acesso a vários serviços do governo, como a Carteira de Trabalho Digital e o seguro-desemprego. O cadastro é feito com o CPF e existem os níveis bronze, prata e ouro. Alguns serviços pedem nível mais alto.",
+    "documentos": [
+      "CPF",
+      "Celular ou e-mail"
+    ],
+    "onde": "Site ou aplicativo gov.br",
+    "fonte": "https://www.gov.br",
+    "verificado_em": "2026-11-17"
+  },
+  {
+    "id": 4,
+    "categoria": "Documentos",
+    "titulo": "Fazer o alistamento militar",
+    "palavras_chave": [
+      "alistamento",
+      "alistamento militar",
+      "reservista",
+      "servico militar",
+      "exercito"
+    ],
+    "resposta": "Homens devem se alistar no ano em que completam 18 anos, de 1º de janeiro a 30 de junho. Pode ser feito pela internet (com conta gov.br) ou em uma Junta de Serviço Militar. Para mulheres é voluntário. Quem perde o prazo pode pagar multa e só concorre à seleção do ano seguinte.",
+    "documentos": [
+      "Conta gov.br (alistamento online)",
+      "Documento de identificação com foto e CPF (atendimento presencial)"
+    ],
+    "onde": "Site do Alistamento Online ou Junta de Serviço Militar da sua cidade",
+    "fonte": "https://www.gov.br/defesa",
+    "verificado_em": "2026-11-17"
+  },
+  {
+    "id": 5,
+    "categoria": "Cidadania",
+    "titulo": "Tirar o Título de Eleitor",
+    "palavras_chave": [
+      "titulo de eleitor",
+      "titulo eleitoral",
+      "eleitor",
+      "votar",
+      "e-titulo",
+      "cartorio eleitoral"
+    ],
+    "resposta": "O primeiro título pode ser pedido pela internet, no sistema Título Net do TSE, a partir dos 15 anos (só vota quem completa 16 até a eleição). Em alguns casos é preciso ir ao cartório eleitoral para a biometria. O voto é obrigatório de 18 a 70 anos e facultativo aos 16 e 17, acima de 70 e para analfabetos. Em ano de eleição há um prazo final para pedir o primeiro título.",
+    "documentos": [
+      "Documento oficial com foto",
+      "Comprovante de residência",
+      "Comprovante de quitação militar (homens)"
+    ],
+    "onde": "Sistema Título Net (site do TSE) ou cartório eleitoral",
+    "fonte": "https://www.tse.jus.br",
+    "verificado_em": "2026-11-17"
+  },
+  {
+    "id": 6,
+    "categoria": "Trabalho",
+    "titulo": "Usar a Carteira de Trabalho Digital",
+    "palavras_chave": [
+      "carteira de trabalho",
+      "ctps",
+      "carteira de trabalho digital",
+      "carteira digital"
+    ],
+    "resposta": "A Carteira de Trabalho Digital funciona no aplicativo ou no site com a sua conta gov.br. O número da carteira é o seu CPF. Seus contratos de trabalho aparecem nela, então confira se estão corretos. Pelo aplicativo também dá para ver vagas do Sine e pedir o seguro-desemprego.",
+    "documentos": [
+      "CPF",
+      "Conta gov.br"
+    ],
+    "onde": "Aplicativo Carteira de Trabalho Digital ou portal gov.br",
+    "fonte": "https://www.gov.br/trabalho-e-emprego",
+    "verificado_em": "2026-11-17"
+  },
+  {
+    "id": 7,
+    "categoria": "Trabalho",
+    "titulo": "Documentos para o primeiro emprego (admissão)",
+    "palavras_chave": [
+      "primeiro emprego",
+      "documentos para trabalhar",
+      "documentos para o emprego",
+      "admissao",
+      "contratacao",
+      "o que levar para trabalhar",
+      "primeiro dia de trabalho"
+    ],
+    "resposta": "Cada empresa pode pedir documentos diferentes. Os mais comuns são a carteira de trabalho (digital), CPF, documento de identidade e comprovante de residência. Homens também podem precisar do comprovante de alistamento militar. Confirme a lista com a empresa.",
+    "documentos": [
+      "Carteira de Trabalho Digital",
+      "CPF",
+      "Documento de identidade",
+      "Comprovante de residência",
+      "Título de eleitor (se tiver)",
+      "Comprovante de alistamento militar (homens)"
+    ],
+    "onde": "Com a empresa que vai contratar",
+    "fonte": "https://www.gov.br/trabalho-e-emprego",
+    "verificado_em": "2026-11-17"
+  },
+  {
+    "id": 8,
+    "categoria": "Trabalho",
+    "titulo": "Programa Jovem Aprendiz",
+    "palavras_chave": [
+      "jovem aprendiz",
+      "aprendiz",
+      "menor aprendiz",
+      "aprendizagem",
+      "lei do aprendiz"
+    ],
+    "resposta": "É um contrato de trabalho especial para jovens de 14 a 24 anos (sem limite de idade para pessoa com deficiência), com carteira assinada, que une trabalho e curso de aprendizagem. O contrato dura no máximo 2 anos. Quem não terminou o ensino médio precisa estar matriculado e frequentando a escola.",
+    "documentos": [
+      "Documento de identidade com foto",
+      "CPF",
+      "Comprovante de matrícula ou escolaridade",
+      "Comprovante de residência"
+    ],
+    "onde": "Empresas contratantes e instituições de aprendizagem, como as do Sistema S",
+    "fonte": "https://www.gov.br/trabalho-e-emprego",
+    "verificado_em": "2026-11-17"
+  },
+  {
+    "id": 9,
+    "categoria": "Trabalho",
+    "titulo": "Fazer estágio",
+    "palavras_chave": [
+      "estagio",
+      "estagiario",
+      "vaga de estagio",
+      "bolsa auxilio",
+      "lei do estagio"
+    ],
+    "resposta": "Estágio é para quem está estudando e exige um termo de compromisso entre o estudante, a escola e a empresa. No estágio não obrigatório, a bolsa-auxílio e o auxílio-transporte são obrigatórios. Seguindo a Lei do Estágio, não há vínculo de emprego pela CLT (sem 13º e FGTS). O recesso é de 30 dias a cada 12 meses, proporcional se o estágio for mais curto.",
+    "documentos": [
+      "Comprovante de matrícula",
+      "Documento de identidade com foto",
+      "CPF"
+    ],
+    "onde": "Escola ou faculdade e empresa concedente",
+    "fonte": "https://www.gov.br/trabalho-e-emprego",
+    "verificado_em": "2026-11-17"
+  },
+  {
+    "id": 10,
+    "categoria": "Trabalho",
+    "titulo": "Procurar vaga de emprego pelo Sine",
+    "palavras_chave": [
+      "vaga de emprego",
+      "procurar emprego",
+      "sine",
+      "buscar vaga",
+      "agencia de emprego",
+      "achar emprego",
+      "emprega brasil"
+    ],
+    "resposta": "O Sine é a rede pública e gratuita de emprego. Você pode se cadastrar e ver vagas pelo Portal Emprega Brasil, pelo aplicativo Carteira de Trabalho Digital ou em um posto da Rede Sine da sua cidade.",
+    "documentos": [
+      "CPF",
+      "Conta gov.br (site e aplicativo)",
+      "Documento de identidade (atendimento presencial)"
+    ],
+    "onde": "Portal Emprega Brasil, aplicativo Carteira de Trabalho Digital ou posto da Rede Sine",
+    "fonte": "https://www.gov.br/pt-br/servicos/buscar-emprego-no-sistema-nacional-de-emprego-sine",
+    "verificado_em": "2026-11-17"
+  },
+  {
+    "id": 11,
+    "categoria": "Direitos",
+    "titulo": "Entender o FGTS",
+    "palavras_chave": [
+      "fgts",
+      "fundo de garantia",
+      "saldo do fgts",
+      "sacar fgts"
+    ],
+    "resposta": "O FGTS é um dinheiro que a empresa deposita todo mês, em uma conta no seu nome na Caixa, equivalente a 8% do salário bruto. Ele não é descontado do seu salário. Para jovem aprendiz o depósito é de 2%. O saque só é permitido em situações previstas em lei, como demissão sem justa causa e compra da casa própria.",
+    "documentos": [
+      "CPF",
+      "Documento de identificação"
+    ],
+    "onde": "Aplicativo FGTS ou agência da Caixa",
+    "fonte": "https://www.caixa.gov.br/beneficios-trabalhador/fgts",
+    "verificado_em": "2026-11-17"
+  },
+  {
+    "id": 12,
+    "categoria": "Direitos",
+    "titulo": "13º salário e férias",
+    "palavras_chave": [
+      "13º salario",
+      "13o salario",
+      "decimo terceiro",
+      "ferias",
+      "terco de ferias"
+    ],
+    "resposta": "O 13º salário equivale a 1/12 do salário por mês trabalhado (conta o mês com 15 dias ou mais). A primeira parcela deve ser paga até 30 de novembro e a segunda até 20 de dezembro; se a data cair em domingo ou feriado, o pagamento é antecipado. As férias são de 30 dias, com acréscimo de 1/3 do salário, depois de 12 meses de trabalho.",
+    "documentos": [],
+    "onde": "Com a empresa; dúvidas no Ministério do Trabalho e Emprego",
+    "fonte": "https://www.gov.br/trabalho-e-emprego",
+    "verificado_em": "2026-11-17"
+  },
+  {
+    "id": 13,
+    "categoria": "Direitos",
+    "titulo": "Pedir o seguro-desemprego",
+    "palavras_chave": [
+      "seguro desemprego",
+      "seguro-desemprego",
+      "demissao",
+      "fui demitido",
+      "demitido",
+      "perdi o emprego"
+    ],
+    "resposta": "Quem foi demitido sem justa causa pode pedir o seguro-desemprego de 7 a 120 dias depois da demissão, pelo portal gov.br, pelo aplicativo Carteira de Trabalho Digital ou em uma unidade do Sine. É preciso ter trabalhado um tempo mínimo: na primeira solicitação, 12 meses nos últimos 18; na segunda, 9 meses nos últimos 12; da terceira em diante, 6 meses.",
+    "documentos": [
+      "CPF",
+      "Conta gov.br",
+      "Documentos da demissão (ex.: termo de rescisão)"
+    ],
+    "onde": "Portal gov.br, aplicativo Carteira de Trabalho Digital ou Sine",
+    "fonte": "https://www.gov.br/trabalho-e-emprego",
+    "verificado_em": "2026-11-17"
+  },
+  {
+    "id": 14,
+    "categoria": "Direitos",
+    "titulo": "Denunciar problema no trabalho",
+    "palavras_chave": [
+      "denuncia",
+      "denunciar",
+      "salario atrasado",
+      "sem carteira assinada",
+      "direitos trabalhistas",
+      "disque 158",
+      "alo trabalho",
+      "trabalho irregular"
+    ],
+    "resposta": "Para tirar dúvidas sobre serviços do Ministério do Trabalho e Emprego, ligue para a Central Alô Trabalho (158). Denúncias de irregularidades, como salário atrasado ou falta de registro na carteira, podem ser feitas no canal de denúncias da Inspeção do Trabalho ou ao Ministério Público do Trabalho. Guarde provas, como conversas e comprovantes.",
+    "documentos": [
+      "Documento de identidade",
+      "Provas do problema (conversas, comprovantes)"
+    ],
+    "onde": "Central Alô Trabalho (158), canal de denúncias do Ministério do Trabalho ou Ministério Público do Trabalho",
+    "fonte": "https://www.gov.br/pt-br/servicos/buscar-orientacao-trabalhista",
+    "verificado_em": "2026-11-17"
+  }
+]

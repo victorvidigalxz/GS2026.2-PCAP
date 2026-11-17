@@ -1,0 +1,16 @@
+﻿data,origem,pergunta,id_orientacao,encontrou,ajudou,tentativas,tempo_segundos,nota_facilidade
+2026-11-17 14:05:00,pergunta,Como tiro o CPF?,1,True,True,1,12.4,4
+2026-11-17 14:06:07,pergunta,"Quero ser jovem aprendiz, quais documentos preciso?",8,True,True,1,15.2,4
+2026-11-17 14:08:14,pergunta,documentos para o primeiro emprego,7,True,True,2,38.6,4
+2026-11-17 14:11:21,pergunta,quero abrir minha empresa,,False,False,2,41.0,4
+2026-11-17 14:12:28,pergunta,Qual o prazo do seguro desemprego?,13,True,True,1,14.0,5
+2026-11-17 14:14:35,pergunta,Como funciona o FGTS?,11,True,True,1,11.3,5
+2026-11-17 14:17:42,pergunta,salario atrasado,14,True,True,2,29.8,5
+2026-11-17 14:18:49,pergunta,Como pego vale-transporte?,,False,False,1,17.5,5
+2026-11-17 14:20:56,categoria,13º salário e férias,12,True,True,1,9.1,5
+2026-11-17 14:23:03,pergunta,Como tirar título de eleitor?,5,True,True,1,13.7,4
+2026-11-17 14:24:10,pergunta,Quando preciso fazer o alistamento militar?,4,True,True,1,10.2,4
+2026-11-17 14:26:17,pergunta,Onde procuro vaga de emprego?,10,True,True,1,16.0,4
+2026-11-17 14:29:24,categoria,Fazer estágio,9,True,False,1,8.4,4
+2026-11-17 14:30:31,pergunta,Como funciona o estágio?,9,True,True,1,12.0,4
+2026-11-17 14:32:38,pergunta,"RG novo, como faço?",2,True,True,1,14.8,4

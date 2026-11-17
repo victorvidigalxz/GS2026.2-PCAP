@@ -1,0 +1,167 @@
+[
+  {
+    "data": "2026-11-17 14:05:00",
+    "origem": "pergunta",
+    "pergunta": "Como tiro o CPF?",
+    "id_orientacao": 1,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 12.4,
+    "nota_facilidade": 4
+  },
+  {
+    "data": "2026-11-17 14:06:07",
+    "origem": "pergunta",
+    "pergunta": "Quero ser jovem aprendiz, quais documentos preciso?",
+    "id_orientacao": 8,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 15.2,
+    "nota_facilidade": 4
+  },
+  {
+    "data": "2026-11-17 14:08:14",
+    "origem": "pergunta",
+    "pergunta": "documentos para o primeiro emprego",
+    "id_orientacao": 7,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 2,
+    "tempo_segundos": 38.6,
+    "nota_facilidade": 4
+  },
+  {
+    "data": "2026-11-17 14:11:21",
+    "origem": "pergunta",
+    "pergunta": "quero abrir minha empresa",
+    "id_orientacao": null,
+    "encontrou": false,
+    "ajudou": false,
+    "tentativas": 2,
+    "tempo_segundos": 41.0,
+    "nota_facilidade": 4
+  },
+  {
+    "data": "2026-11-17 14:12:28",
+    "origem": "pergunta",
+    "pergunta": "Qual o prazo do seguro desemprego?",
+    "id_orientacao": 13,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 14.0,
+    "nota_facilidade": 5
+  },
+  {
+    "data": "2026-11-17 14:14:35",
+    "origem": "pergunta",
+    "pergunta": "Como funciona o FGTS?",
+    "id_orientacao": 11,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 11.3,
+    "nota_facilidade": 5
+  },
+  {
+    "data": "2026-11-17 14:17:42",
+    "origem": "pergunta",
+    "pergunta": "salario atrasado",
+    "id_orientacao": 14,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 2,
+    "tempo_segundos": 29.8,
+    "nota_facilidade": 5
+  },
+  {
+    "data": "2026-11-17 14:18:49",
+    "origem": "pergunta",
+    "pergunta": "Como pego vale-transporte?",
+    "id_orientacao": null,
+    "encontrou": false,
+    "ajudou": false,
+    "tentativas": 1,
+    "tempo_segundos": 17.5,
+    "nota_facilidade": 5
+  },
+  {
+    "data": "2026-11-17 14:20:56",
+    "origem": "categoria",
+    "pergunta": "13º salário e férias",
+    "id_orientacao": 12,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 9.1,
+    "nota_facilidade": 5
+  },
+  {
+    "data": "2026-11-17 14:23:03",
+    "origem": "pergunta",
+    "pergunta": "Como tirar título de eleitor?",
+    "id_orientacao": 5,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 13.7,
+    "nota_facilidade": 4
+  },
+  {
+    "data": "2026-11-17 14:24:10",
+    "origem": "pergunta",
+    "pergunta": "Quando preciso fazer o alistamento militar?",
+    "id_orientacao": 4,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 10.2,
+    "nota_facilidade": 4
+  },
+  {
+    "data": "2026-11-17 14:26:17",
+    "origem": "pergunta",
+    "pergunta": "Onde procuro vaga de emprego?",
+    "id_orientacao": 10,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 16.0,
+    "nota_facilidade": 4
+  },
+  {
+    "data": "2026-11-17 14:29:24",
+    "origem": "categoria",
+    "pergunta": "Fazer estágio",
+    "id_orientacao": 9,
+    "encontrou": true,
+    "ajudou": false,
+    "tentativas": 1,
+    "tempo_segundos": 8.4,
+    "nota_facilidade": 4
+  },
+  {
+    "data": "2026-11-17 14:30:31",
+    "origem": "pergunta",
+    "pergunta": "Como funciona o estágio?",
+    "id_orientacao": 9,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 12.0,
+    "nota_facilidade": 4
+  },
+  {
+    "data": "2026-11-17 14:32:38",
+    "origem": "pergunta",
+    "pergunta": "RG novo, como faço?",
+    "id_orientacao": 2,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 14.8,
+    "nota_facilidade": 4
+  }
+]

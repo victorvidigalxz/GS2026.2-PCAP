@@ -52,7 +52,6 @@ class Assistente:
         self.sessao = []  # posições no histórico dos atendimentos desta execução
         self._carregar_historico()
 
-    # ---------- histórico ----------
     def _carregar_historico(self):
         try:
             with open(self.caminho_historico, "r", encoding="utf-8") as arquivo:
@@ -91,7 +90,6 @@ class Assistente:
         self.sessao.append(len(self.historico) - 1)
         self._salvar_historico()
 
-    # ---------- atendimento por pergunta ----------
     @staticmethod
     def tem_dado_pessoal(texto):
         """8 ou mais dígitos ou @ indicam CPF, telefone ou e-mail."""
@@ -177,7 +175,6 @@ class Assistente:
             if ajudou:
                 print("Que bom que ajudou!")
 
-    # ---------- navegação por categorias ----------
     def navegar(self):
         """Atendimento por categorias, com 0 para voltar em todas as telas."""
         categorias = self.base.categorias()
@@ -208,7 +205,6 @@ class Assistente:
                 self.registrar("categoria", orientacao.titulo, orientacao.id,
                                True, resposta == "s", 1, tempo)
 
-    # ---------- indicadores ----------
     def indicadores(self):
         """Calcula e mostra os indicadores. Devolve um dicionário com os valores."""
         total = len(self.historico)
@@ -256,7 +252,6 @@ class Assistente:
             print("  (nenhuma)")
         return valores
 
-    # ---------- CSV ----------
     def exportar_csv(self):
         """Exporta os atendimentos para data/atendimentos.csv com DictWriter."""
         if not self.historico:
@@ -273,7 +268,6 @@ class Assistente:
         except OSError:
             print("\nNão foi possível gravar o CSV. Feche o arquivo se ele estiver aberto.")
 
-    # ---------- saída ----------
     def pedir_nota(self):
         """Ao sair, pede a nota de facilidade (1 a 5) dos atendimentos desta execução."""
         if not self.sessao:

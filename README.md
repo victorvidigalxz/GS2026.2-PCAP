@@ -106,4 +106,4 @@ Teste com **3 pessoas de fora da equipe** (identificadas apenas como A, B e C, s
 - Não é canal oficial.
 
 ## Vídeo técnico
-Link (YouTube, não listado): _colar aqui_
+Link (YouTube, não listado): https://youtu.be/_sEknAh6M4I
